@@ -46,3 +46,11 @@ This project focuses on analyzing Blinkit's sales data to gain insights into var
 
 ## Conclusion
 Built dashboards with advanced charts to compare sales across outlets for better insights into sales dynamics.
+
+## Getting Started
+
+To replicate this analysis, clone the repository and follow the instructions provided in the `setup.md` file.
+
+```bash
+git clone https://github.com/vikask-iitg/Blinkit-Sales-Data-Analysis.git
+
