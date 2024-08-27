@@ -1,5 +1,7 @@
 # Blinkit Sales Data Analysis
 
+![Blinkit Project Dashboard](https://github.com/user-attachments/assets/6bdb4b5a-15ca-4261-9889-2f99cfe80872)
+
 ## Overview
 This project focuses on analyzing Blinkit's sales data to gain insights into various key performance indicators (KPIs) such as Total Sales, Average Sales, Number of Items Sold, and Average Rating. The analysis involves creating multiple charts to visualize the impact of factors like fat content, item types, outlet size, and location on total sales.
 
